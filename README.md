@@ -7,4 +7,4 @@ This is a test paragraph:
 3. Three
 
 ## Other Links
-About us
+[About us](About)
